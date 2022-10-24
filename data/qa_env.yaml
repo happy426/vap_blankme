@@ -1,0 +1,21 @@
+-
+ method: post
+ env: Dev
+ url: 'https://aml-api.develop.meetwhale.com/v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '干皮用什么'
+ "topk": 5
+-
+ method: post
+ env: Stage
+ url: 'https://aml-api-public.stage.meetwhale.com/v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '干皮用什么'
+ "topk": 5
+-
+ method: post
+ env: Prod
+ url: 'https://aml-api-public.meetwhale.com/v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '干皮用什么'
+ "topk": 5

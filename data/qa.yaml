@@ -1,0 +1,30 @@
+-
+ method: post
+ url: 'v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '干皮用什么'
+ "topk": 5
+-
+ method: post
+ url: 'v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '?'
+ "topk": 5
+-
+ method: post
+ url: 'v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '*'
+ "topk": 5
+-
+ method: post
+ url: 'v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '发什么货?'
+ "topk": 5
+-
+ method: post
+ url: 'v2/nlp/qa'
+ company_id: '3641588816278531584'
+ comment: '1234'
+ "topk": 5
